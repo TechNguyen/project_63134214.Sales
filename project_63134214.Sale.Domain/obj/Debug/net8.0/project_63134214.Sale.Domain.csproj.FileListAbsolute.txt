@@ -1,0 +1,14 @@
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\bin\Debug\net8.0\project_63134214.Sale.Domain.deps.json
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\bin\Debug\net8.0\project_63134214.Sale.Domain.runtimeconfig.json
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\bin\Debug\net8.0\project_63134214.Sale.Domain.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\bin\Debug\net8.0\project_63134214.Sale.Domain.pdb
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.csproj.AssemblyReference.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.AssemblyInfoInputs.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.AssemblyInfo.cs
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.csproj.CoreCompileInputs.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\refint\project_63134214.Sale.Domain.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.pdb
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\project_63134214.Sale.Domain.genruntimeconfig.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Domain\obj\Debug\net8.0\ref\project_63134214.Sale.Domain.dll

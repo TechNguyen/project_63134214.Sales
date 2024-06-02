@@ -1,0 +1,17 @@
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Repository.deps.json
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Repository.runtimeconfig.json
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Repository.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Repository.pdb
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Domain.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\bin\Debug\net8.0\project_63134214.Sale.Domain.pdb
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.csproj.AssemblyReference.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.AssemblyInfoInputs.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.AssemblyInfo.cs
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.csproj.CoreCompileInputs.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.csproj.CopyComplete
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\refint\project_63134214.Sale.Repository.dll
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.pdb
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\project_63134214.Sale.Repository.genruntimeconfig.cache
+E:\Freelance\project_63134214\project_63134214.Sale.Repository\obj\Debug\net8.0\ref\project_63134214.Sale.Repository.dll
